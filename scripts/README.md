@@ -1,6 +1,4 @@
-# Place DE pixel data
-
-This repository tracks the current goals of the r/de place community.
+# Place WUG pixel data
 
 Requires pillow, which can be installed using pip: `pip install pillow`
 
